@@ -1,4 +1,4 @@
-# EmploymentAgency.WebApi
+# BitbucketWebApi
 
 ## Проєкт для обчислювальної практики Мильничука Павла Iллiча (2 курс, 244Б група)
 
