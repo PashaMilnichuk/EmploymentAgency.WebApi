@@ -23,7 +23,7 @@
 
 [docs/MVP.docx](docs/MVP.docx)
 
-## Звіт, щоденник.
-
+## Щоденник
+[docs/GitHub.docx](docs/GitHub.docx)
 [docs/Звіт_Мильничук.docx](docs/Звіт_Мильничук.docx)
 [docs/Щоденник_Мильничук.docx](docs/Щоденник_Мильничук.docx)
