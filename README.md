@@ -23,9 +23,9 @@
 
 [docs/MVP.docx](docs/MVP.docx)
 
-## Щоденник, посилання на GitHub,
+## Щоденник, посилання на GitHub, технiчне завдання
 [docs/GitHub.txt](docs/GitHub.txt)
 
-[docs/Звіт_Мильничук.docx](docs/Звіт_Мильничук.docx)
+[docs/Технічне_завдання.docx](docs/Технічне_завдання.docx)
 
 [docs/Щоденник_Мильничук.docx](docs/Щоденник_Мильничук.docx)
